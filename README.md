@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/Download-v1.0-Green.svg)](https://github.com/themockingjet/Philippines-Standard-Geographic-Code-SQL-Database/releases)
+
 https://github.com/themockingjet/Philippines-Standard-Geographic-Code-SQL-Database
 
 # Philippines Standard Geographic Code (PSGC) SQL Database
