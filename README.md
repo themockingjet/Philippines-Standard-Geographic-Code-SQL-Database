@@ -9,8 +9,8 @@ This is an SQL data containing the list of Philippines Regions, Province, City a
 I was having a hard time looking for an updated database of Philippines' updated regions, province, cities and etc so I tried making one from an excel raw data of (PSGC) Philippine Standard Geographic Codes containing the masterlist of Regions, Provinces, Cities, Municipalities, Districts, Barangays and etc. 
 And also to help our fellow Filipino programmers/developers to ease their development.
 
-
 # Sample ERD
+Note: Database is without the user and address table.
 ![DB](/img/erd.jpg)
 
 # Technical
