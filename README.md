@@ -16,6 +16,7 @@ Note: Database is without the user and address table.
 # Technical
 SQL 2019 Developer Edition
 https://go.microsoft.com/fwlink/?linkid=866662
+
 SQL SMS
 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver16
 
